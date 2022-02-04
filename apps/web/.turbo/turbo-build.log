@@ -1,0 +1,22 @@
+[35mweb:build: [0mcache hit, replaying output [2m780c63022a5420b6[0m
+[35mweb:build: [0m$ next build
+[35mweb:build: [0minfo  - Checking validity of types...
+[35mweb:build: [0mwarn  - No ESLint configuration detected. Run next lint to begin setup
+[35mweb:build: [0minfo  - Creating an optimized production build...
+[35mweb:build: [0minfo  - Compiled successfully
+[35mweb:build: [0minfo  - Collecting page data...
+[35mweb:build: [0minfo  - Generating static pages (0/3)
+[35mweb:build: [0minfo  - Generating static pages (3/3)
+[35mweb:build: [0minfo  - Finalizing page optimization...
+[35mweb:build: [0m
+[35mweb:build: [0mPage                                       Size     First Load JS
+[35mweb:build: [0m┌ ○ /                                      304 B          71.3 kB
+[35mweb:build: [0m└ ○ /404                                   193 B          71.2 kB
+[35mweb:build: [0m+ First Load JS shared by all              71 kB
+[35mweb:build: [0m  ├ chunks/framework-71b7ac9748a53568.js   42 kB
+[35mweb:build: [0m  ├ chunks/main-c79b3129b11b860f.js        26.9 kB
+[35mweb:build: [0m  ├ chunks/pages/_app-2ad88a182aea1df3.js  1.37 kB
+[35mweb:build: [0m  └ chunks/webpack-fd82975a6094609f.js     727 B
+[35mweb:build: [0m
+[35mweb:build: [0m○  (Static)  automatically rendered as static HTML (uses no initial props)
+[35mweb:build: [0m

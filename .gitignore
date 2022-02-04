@@ -1,0 +1,10 @@
+#IDEs
+.vscode
+.idea
+
+# Node
+node_modules
+
+# Bundle output
+build
+out
